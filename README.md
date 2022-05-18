@@ -2,12 +2,8 @@
 <html>
 <head>
 <style>
-	body{
-	background-color: #2F8F9D;
-	}
-	h1{
-	font-family: 'Noto Sans KR', sans-serif;
-	}
+	body{background-color: #2F8F9D;}
+	h1{font-family: 'Noto Sans KR', sans-serif;}
 </style>
 </head>
 <body>
