@@ -1,4 +1,3 @@
-아무거나 
 <html>
 <head>
 
@@ -11,6 +10,5 @@
         body{background-color: #2F8F9D;}
         h1{font-family: 'Noto Sans KR', sans-serif;}
     </style>
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/ioNng23DkIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<h1>안녕하세요! 제 이름은 김한울이고, 프로그래밍을 공부하는 고등학생입니다.</h1>
 </html>
